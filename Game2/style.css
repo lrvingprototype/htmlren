@@ -1,0 +1,12 @@
+#maincanvas{
+    border:2px solid;
+    border-color:#222;
+}
+#subCanvas{
+    position:relative;
+    height: 80%;
+    width: 80%;
+    left:10%;
+    top:10%;
+    border:2px solid;
+}
